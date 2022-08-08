@@ -1,0 +1,1 @@
+print("Falta(m)", 151 - len({input() for x in range(int(input()))}), "pomekon(s).")

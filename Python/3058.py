@@ -1,0 +1,1 @@
+print(f"{min([1000 / int(m[1]) * float(m[0]) for m in [input().split() for x in range(int(input()))]]):.2f}")
